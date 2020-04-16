@@ -1,0 +1,569 @@
+[
+  {
+    "pad": 11,
+    "cor": [1, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 12,
+    "cor": [1, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 13,
+    "cor": [1, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 14,
+    "cor": [1, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 15,
+    "cor": [1, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 16,
+    "cor": [1, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 17,
+    "cor": [1, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 18,
+    "cor": [1, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 19,
+    "cor": [1, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 21,
+    "cor": [2, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 22,
+    "cor": [2, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 23,
+    "cor": [2, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 24,
+    "cor": [2, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 25,
+    "cor": [2, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 26,
+    "cor": [2, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 27,
+    "cor": [2, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 28,
+    "cor": [2, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 29,
+    "cor": [2, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 31,
+    "cor": [3, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 32,
+    "cor": [3, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 33,
+    "cor": [3, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 34,
+    "cor": [3, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 35,
+    "cor": [3, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 36,
+    "cor": [3, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 37,
+    "cor": [3, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 38,
+    "cor": [3, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 39,
+    "cor": [3, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 41,
+    "cor": [4, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 42,
+    "cor": [4, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 43,
+    "cor": [4, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 44,
+    "cor": [4, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 45,
+    "cor": [4, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 46,
+    "cor": [4, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 47,
+    "cor": [4, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 48,
+    "cor": [4, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 49,
+    "cor": [4, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 51,
+    "cor": [5, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 52,
+    "cor": [5, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 53,
+    "cor": [5, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 54,
+    "cor": [5, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 55,
+    "cor": [5, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 56,
+    "cor": [5, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 57,
+    "cor": [5, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 58,
+    "cor": [5, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 59,
+    "cor": [5, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 61,
+    "cor": [6, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 62,
+    "cor": [6, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 63,
+    "cor": [6, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 64,
+    "cor": [6, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 65,
+    "cor": [6, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 66,
+    "cor": [6, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 67,
+    "cor": [6, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 68,
+    "cor": [6, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 69,
+    "cor": [6, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 71,
+    "cor": [7, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 72,
+    "cor": [7, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 73,
+    "cor": [7, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 74,
+    "cor": [7, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 75,
+    "cor": [7, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 76,
+    "cor": [7, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 77,
+    "cor": [7, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 78,
+    "cor": [7, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 79,
+    "cor": [7, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 81,
+    "cor": [8, 1],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 82,
+    "cor": [8, 2],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 83,
+    "cor": [8, 3],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 84,
+    "cor": [8, 4],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 85,
+    "cor": [8, 5],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 86,
+    "cor": [8, 6],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 87,
+    "cor": [8, 7],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 88,
+    "cor": [8, 8],
+    "pressed": false,
+    "type": "pad",
+    "color": 0
+  },
+  {
+    "pad": 89,
+    "cor": [8, 9],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 91,
+    "cor": [9, 1],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 92,
+    "cor": [9, 2],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 93,
+    "cor": [9, 3],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 94,
+    "cor": [9, 4],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 95,
+    "cor": [9, 5],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 96,
+    "cor": [9, 6],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 97,
+    "cor": [9, 7],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 98,
+    "cor": [9, 8],
+    "pressed": false,
+    "type": "option",
+    "color": 0
+  },
+  {
+    "pad": 99,
+    "cor": [9, 9],
+    "pressed": false,
+    "type": "led",
+    "color": 0
+  }
+]
